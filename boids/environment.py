@@ -3,7 +3,7 @@ File to hold the Environment class.
 """
 
 
-class Environment():
+class Environment:
     def __init__(self,
                  height,
                  width):

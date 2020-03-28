@@ -1,6 +1,7 @@
 # File to hold the boid class
 
-class Boid():
+
+class Boid:
     def __init__(self,
                  position,
                  orientation,
